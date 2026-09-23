@@ -1,0 +1,7 @@
+{
+  "name": "Kasir Offline",
+  "description": "Aplikasi POS Kasir offline modern, cepat, dan lengkap dengan dukungan produk berbobot, manajemen stok & harga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
