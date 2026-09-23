@@ -1,4 +1,5 @@
 # POS Kasir Offline
+![Deskripsi gambar](https://github.com/ray4rt/POS-Kasir-Offline/blob/main/Demo.png)
 
 Aplikasi Point of Sale (POS) berbasis Android yang dirancang khusus untuk operasional offline 100%. Dibuat menggunakan teknologi modern Android (Jetpack Compose, Room Database, Kotlin Coroutines) untuk memberikan performa cepat, antarmuka intuitif, dan keamanan data lokal yang handal.
 
@@ -53,7 +54,7 @@ Aplikasi Point of Sale (POS) berbasis Android yang dirancang khusus untuk operas
 
 Karena aplikasi ini di-build untuk keperluan pengembangan (tanpa keystore resmi), ikuti langkah-langkah berikut untuk menginstalnya di perangkat Android Anda:
 
-1.  **[Unduh File APK](https://github.com/ray4rt/POS-Kasir-Offline/tree/main/kasir-offline/app):** Ambil file APK yang telah di-generate dari folder output build.
+1.  **[Unduh File APK](https://drive.google.com/file/d/17cfDkmTo-3_nus_IZhBpkFw5WIxv5Yb8/view?usp=drivesdk):** Ambil file APK yang telah di-generate dari folder output build.
 2.  **Aktifkan Izin Sumber Tidak Dikenal:**
     *   Buka **Pengaturan** di HP Anda.
     *   Cari menu **Keamanan** atau **Privasi**.
