@@ -53,7 +53,7 @@ Aplikasi Point of Sale (POS) berbasis Android yang dirancang khusus untuk operas
 
 Karena aplikasi ini di-build untuk keperluan pengembangan (tanpa keystore resmi), ikuti langkah-langkah berikut untuk menginstalnya di perangkat Android Anda:
 
-1.  **[https://github.com/ray4rt/POS-Kasir-Offline/tree/main/kasir-offline/app](Unduh File APK:)** Ambil file APK yang telah di-generate dari folder output build.
+1.  **[https://github.com/ray4rt/POS-Kasir-Offline/tree/main/kasir-offline/app](Unduh File APK):** Ambil file APK yang telah di-generate dari folder output build.
 2.  **Aktifkan Izin Sumber Tidak Dikenal:**
     *   Buka **Pengaturan** di HP Anda.
     *   Cari menu **Keamanan** atau **Privasi**.
