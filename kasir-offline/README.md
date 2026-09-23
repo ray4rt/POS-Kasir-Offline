@@ -1,4 +1,4 @@
-# POS Kasir Offline - Rayden Edition
+# POS Kasir Offline
 
 Aplikasi Point of Sale (POS) berbasis Android yang dirancang khusus untuk operasional offline 100%. Dibuat menggunakan teknologi modern Android (Jetpack Compose, Room Database, Kotlin Coroutines) untuk memberikan performa cepat, antarmuka intuitif, dan keamanan data lokal yang handal.
 
