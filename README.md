@@ -1,5 +1,5 @@
 # POS Kasir Offline
-![Deskripsi gambar](https://github.com/ray4rt/POS-Kasir-Offline/blob/main/Demo.png)
+![Deskripsi gambar](https://drive.google.com/file/d/1-UR_LQccRmGqwwSKoE-qbSlNe4FEhMvs/view?usp=drivesdk)
 
 Aplikasi Point of Sale (POS) berbasis Android yang dirancang khusus untuk operasional offline 100%. Dibuat menggunakan teknologi modern Android (Jetpack Compose, Room Database, Kotlin Coroutines) untuk memberikan performa cepat, antarmuka intuitif, dan keamanan data lokal yang handal.
 
